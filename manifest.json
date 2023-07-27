@@ -1,0 +1,14 @@
+
+{
+    "manifest_version": 3,
+    "name": "Quote Generator",
+    "description": "A simple Quote Generator extension. Easily gives random quote with the author name.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_logo":"quote.png"
+    },
+    "icons": {
+        "128": "quote.png"
+    }
+}
